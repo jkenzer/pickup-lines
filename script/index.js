@@ -31,7 +31,7 @@ const categories = fromCategories.reduce((accum, c) => {
   return accum;
 }, new Map());
 
-const lines = fromlines.map((l) => {
+let lines = fromlines.map((l) => {
   const cats = [];
   l.categories.forEach((c) => {
     cats.push(categories.get(c));
@@ -41,8 +41,10 @@ const lines = fromlines.map((l) => {
     categories: cats,
   };
 });
-writeFileSync(
-  "./public/all-lines.json",
-  JSON.stringify(lines, null, 2),
-  "utf-8"
+
+lines = lines.filter(
+  (l) =>
+    !l.categories.includes("Dirty Pick-Up Lines") &&
+    !l.categories.includes("Mean Pick Up Lines")
 );
+writeFileSync("../all-lines.json", JSON.stringify(lines, null, 2), "utf-8");
