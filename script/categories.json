@@ -1,0 +1,402 @@
+[
+  {
+    "id": 20,
+    "count": 74,
+    "description": "",
+    "link": "https:\/\/pickup-lines.net\/bad\/",
+    "name": "Bad Pick Up Lines",
+    "slug": "bad",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories\/20"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/posts?categories=20"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 343,
+    "description": "",
+    "link": "https:\/\/pickup-lines.net\/cheesy-corny\/",
+    "name": "Cheesy Pick-Up Lines",
+    "slug": "cheesy-corny",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories\/1"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "count": 32,
+    "description": "",
+    "link": "https:\/\/pickup-lines.net\/coronavirus-pick-up-lines\/",
+    "name": "Coronavirus Pick Up Lines",
+    "slug": "coronavirus-pick-up-lines",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories\/33"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/posts?categories=33"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "count": 123,
+    "description": "",
+    "link": "https:\/\/pickup-lines.net\/cute\/",
+    "name": "Cute Pick-Up Lines",
+    "slug": "cute",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories\/9"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/posts?categories=9"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "count": 426,
+    "description": "",
+    "link": "https:\/\/pickup-lines.net\/dirty\/",
+    "name": "Dirty Pick-Up Lines",
+    "slug": "dirty",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories\/8"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/posts?categories=8"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "count": 277,
+    "description": "",
+    "link": "https:\/\/pickup-lines.net\/funny\/",
+    "name": "Funny Pick-Up Lines",
+    "slug": "funny",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories\/7"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/posts?categories=7"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "count": 39,
+    "description": "",
+    "link": "https:\/\/pickup-lines.net\/mean\/",
+    "name": "Mean Pick Up Lines",
+    "slug": "mean",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories\/18"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/posts?categories=18"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "count": 28,
+    "description": "",
+    "link": "https:\/\/pickup-lines.net\/nerdy\/",
+    "name": "Nerdy Pick-Up Lines",
+    "slug": "nerdy",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories\/51"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/posts?categories=51"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "count": 20,
+    "description": "",
+    "link": "https:\/\/pickup-lines.net\/tinder\/",
+    "name": "Tinder Pick-Up Lines",
+    "slug": "tinder",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories\/32"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/posts?categories=32"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "count": 38,
+    "description": "",
+    "link": "https:\/\/pickup-lines.net\/weird\/",
+    "name": "Weird Pick Up Lines",
+    "slug": "weird",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories\/19"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/pickup-lines.net\/wp-json\/wp\/v2\/posts?categories=19"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
